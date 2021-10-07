@@ -1,2 +1,2 @@
 Sample File
-Conflict file demo
+Conflict file resolved
