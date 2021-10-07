@@ -1,1 +1,2 @@
-Sample test file
+Sample File
+Conflict file demo
