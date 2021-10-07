@@ -1,3 +1,2 @@
 Sample File
 Conflict file resolved
-Force Example
