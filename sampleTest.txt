@@ -1,2 +1,2 @@
-SampleTest file
-From Main Edited
+Sample File
+Conflict file resolved
